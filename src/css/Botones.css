@@ -1,0 +1,28 @@
+.boton-crear {
+  background-color: #87b5eb;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 4px 6px rgba(235, 235, 235, 0.1);
+}
+
+.boton-iniciar {
+  background-color: #91f336;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
+}
+
+
+.recuadro-rosa {
+  background-color: #e73ca0; 
+  padding: 20px;             
+  border-radius: 10px;       
+  display: flex;             
+  justify-content: space-between; 
+  align-items: center;       
+  margin-top: 30px;          
+}
